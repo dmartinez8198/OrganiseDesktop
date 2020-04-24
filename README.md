@@ -11,10 +11,10 @@ At least not on the outside :)
 
 Feel free to join the channel and contribute. If you have already had a PR merged, please join the [channel](https://join.slack.com/t/organisedesktop/shared_invite/enQtMzA2NTI2MTI0MzY4LWRlOWRjOGM0YTJmYjFiZGU3ZTUzM2M0MTA2N2U3MzljMmFhNGIyODlmZDg2N2E1Y2EwOWFiZjcxMzYzYjcyMTk).
 
-# Getting Started
-
-The setup file is not yet configured (work in progress). To run the program, download
-the repo and install the required packages then run the Clean.py file.
+# Installation Guide:
+1) Download the repo
+2) Run the "activate" Shell Script inside the Organise Desktop folder
+3) Open Clean.py inside OrganiseDesktop/organise_desktop
 
 # Demo
 ![Screenshot](demo1.png)
