@@ -172,6 +172,14 @@ class OrganiseDesktop():
 
         writeOB.close()
 
+def removeEmptyFolders(self, created_folders):
+    'Removes empty folders'
+    directories = [self._create_dir_path(dir) for dir in created_folders]
+
+    for dir in directories:
+        if not listdir(dir):
+            rmdir(dir)
+
 
 def organise_desktop(extensions):
 
@@ -194,9 +202,12 @@ def organise_desktop(extensions):
     
     #Move the files to their appropriate locations
     projectOB.mover(maps)
-    
+
+    #Removes empty folders
+    projectOB.removeEmptyFolders(extensions)
     #Log the original files
     projectOB.writter(maps)
+
 
 
 def undo():
