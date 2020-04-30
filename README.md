@@ -21,6 +21,9 @@ Feel free to join the channel and contribute. If you have already had a PR merge
 
 The buttons are `Clean`, `Exit`, `Undo`, `Schedule`, `Remove Schedule` and do exactly as they are implied.
 
+#Proposed UI
+
+
 # Prerequisites
 
 All the necessary packages are mentioned in requirements.txt. They can be installed by
