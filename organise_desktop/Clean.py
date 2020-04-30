@@ -22,7 +22,7 @@ class App(Frame):
         for x in folders:
             checked_extensions[x] = Extensions[x]
         organise_desktop(checked_extensions)
-        tkMessageBox.showinfo('Complete', 'Desktop clean finished.')
+        tkMessageBox.showinfo('Complete', 'Desktop clean finished.')     
 
     def quit_all(self):
         sys.exit(0)
@@ -57,6 +57,7 @@ class App(Frame):
         # buttons and their respective functions
         buttons = {'Clean': self.clean,
                    'Exit': self.quit_all,
+                   #'Remove\nEmpty\nFolders': self.removeEmptyFolders
                    'Undo': undo,
                    'Schedule': self.on_schedule_start,
                    'Remove\nSchedule': schedule_end
