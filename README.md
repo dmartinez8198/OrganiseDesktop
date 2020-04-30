@@ -22,7 +22,7 @@ Feel free to join the channel and contribute. If you have already had a PR merge
 The buttons are `Clean`, `Exit`, `Undo`, `Schedule`, `Remove Schedule` and do exactly as they are implied.
 
 #Proposed UI
-https://github.com/dmartinez8198/OrganiseDesktop/issues/3#issue-609733664
+![Image] https://github.com/dmartinez8198/OrganiseDesktop/issues/3#issue-609733664
 
 # Prerequisites
 
