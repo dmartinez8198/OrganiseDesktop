@@ -1,15 +1,7 @@
-# Thank You
-
-I would like to thank all of the contributors who are improving this project. I really appreciate your efforts. This project started when I was in college and I never thought it would turn into anything. Seeing all you guys add features and fix the errors that I couldn't is really encouraging. Thank you so much!
-
 # OrganiseDesktop
 
 Takes all the files on your desktop and put them in folders according to extensions. NO MORE MESSY DESKTOPS!
 At least not on the outside :)
-
-# Slack Channel invite link
-
-Feel free to join the channel and contribute. If you have already had a PR merged, please join the [channel](https://join.slack.com/t/organisedesktop/shared_invite/enQtMzA2NTI2MTI0MzY4LWRlOWRjOGM0YTJmYjFiZGU3ZTUzM2M0MTA2N2U3MzljMmFhNGIyODlmZDg2N2E1Y2EwOWFiZjcxMzYzYjcyMTk).
 
 # Installation Guide:
 1) Download the repo
@@ -25,6 +17,10 @@ The buttons are `Clean`, `Exit`, `Undo`, `Schedule`, `Remove Schedule` and do ex
 ![ProposedUI](https://user-images.githubusercontent.com/28908100/80692304-019d4400-8a97-11ea-99e1-70fd28fb2325.png)
 
 Our proposed UI would be integrated into the operating system and be configured as an option that can be selected once an icon is right-clicked.
+
+# Proposed Changes
+
+Some of the changes we would like to see implemented into this project in the future would be the Proposed UI mentioned above. Additionally, while the program does create folders to organize the desktop icons into it would be better to also organize icons within the folders based on extensions by creating additional folders within the created folders basing them on specific extensions. 
 
 # Prerequisites
 
