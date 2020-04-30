@@ -24,6 +24,8 @@ The buttons are `Clean`, `Exit`, `Undo`, `Schedule`, `Remove Schedule` and do ex
 # Proposed UI
 ![ProposedUI](https://user-images.githubusercontent.com/28908100/80692304-019d4400-8a97-11ea-99e1-70fd28fb2325.png)
 
+Our proposed UI would be integrated into the operating system and be configured as an option that can be selected once an icon is right-clicked.
+
 # Prerequisites
 
 All the necessary packages are mentioned in requirements.txt. They can be installed by
