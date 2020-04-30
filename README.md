@@ -21,7 +21,7 @@ Feel free to join the channel and contribute. If you have already had a PR merge
 
 The buttons are `Clean`, `Exit`, `Undo`, `Schedule`, `Remove Schedule` and do exactly as they are implied.
 
-#Proposed UI
+# Proposed UI
 ![ProposedUI](https://user-images.githubusercontent.com/28908100/80692304-019d4400-8a97-11ea-99e1-70fd28fb2325.png)
 
 # Prerequisites
